@@ -64,6 +64,7 @@ do
 		end
 	]],owner.Character)
 end
+end
 
 -- DUALIECIDER
 --[[
