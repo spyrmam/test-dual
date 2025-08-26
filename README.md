@@ -64,7 +64,6 @@ do
 		end
 	]],owner.Character)
 end
-end
 
 -- DUALIECIDER
 --[[
@@ -83,7 +82,7 @@ Credit to CKbackup's and idk..
 wait(1 / 60)
 Effects = { }
 local Player = game.Players.localplayer
-local Character = Player.Character
+local Character = owner.Character
 local Humanoid = Character.Humanoid
 local Mouse = Player:GetMouse()
 local LeftArm = Character["Left Arm"]
